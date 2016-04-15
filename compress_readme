@@ -1,0 +1,32 @@
+--------------------------------------
+Graph - Shortest Paths and Minimal Spanning Tree 
+--------------------------------------
+
+Author: Yuanyuan Ma
+
+====================================
+What is it?
+====================================
+The Compressor compress information like the following 
+
+		"Mary Stamey|Lowe's|125|852363|692400|47037|IN",
+		"Vincent Garcia|Home Depot|580|484384|288388|28727|NC",
+		"Francis Bernardi|Amazon|467|013882|333034|28092|NC",
+		"Michael Gonzalez|Home Depot|563|441464|597782|96074|CA",
+		"Brandon Allen|Metzger's Hardware|394|799559|374963|27698|NC",
+		"Nathaniel Alexander|Metzger's Hardware|686|233730|729814|54564|WI",
+		"Tanya Horton|Home Depot|379|572145|269657|98038|WA",
+		"Jeffery Mugleston|Metzger's Hardware|145|557891|148273|50561|IA",
+		"Maynard Roman|Amazon|11|635265|276609|37357|TN",
+		"William Weber|Lowe's|194|871347|631738|29225|SC"
+
+so that the information takes less space. 
+
+The Decompressor class decompress the compressed data and restore
+them into its original format. 
+
+-------------------------------------------------------
+Detailed information on class methods are in the comments within 
+java codes.
+
+
